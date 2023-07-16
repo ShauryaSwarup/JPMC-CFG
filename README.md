@@ -1,5 +1,5 @@
 <h1 align="center">
-  Team - 3 | Navsanjeevan <img src="">
+  Team - 3 | Navsanjeevan
   <br>
 </h1>
 
